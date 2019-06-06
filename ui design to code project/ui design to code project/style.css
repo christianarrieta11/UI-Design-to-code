@@ -1,0 +1,249 @@
+
+.middle{
+display: block;
+margin-left: 45%;
+background-image: cover;
+background-repeat: no-repeat;
+   
+}
+.image{
+    display: block;
+    margin-left: 45%;
+    margin-bottom: 50%;
+    background-image: cover;
+    background-repeat: no-repeat;
+  
+}
+.container{
+    display: block;
+    margin-top: -115%;
+    background-image: cover;
+    background-repeat: no-repeat;
+}
+.menu{
+  float: right;
+  margin-top: 5%;
+  margin-right: 8%;
+    display:inline-block;
+    width:100px;
+  
+    
+
+    
+}
+a{
+        text-decoration: none;
+        color: gray;
+        font-size: 20px;
+    
+    
+}
+@media only screen and (min-width: 1200px){
+    .middle{
+        display: block;
+        margin-left: 45%;
+        background-image: cover;
+        background-repeat: no-repeat;
+           
+        }
+        .image{
+            display: block;
+            margin-left: 45%;
+            margin-bottom: 50%;
+            background-image: cover;
+            background-repeat: no-repeat;
+          
+        }
+        .container{
+            display: block;
+            margin-top: -115%;
+            background-image: cover;
+            background-repeat: no-repeat;
+        }
+        .menu{
+          float: right;
+          margin-top: 5%;
+          margin-right: 8%;
+            display:inline-block;
+            width:100px;
+          
+            
+        
+            
+        }
+        a{
+                text-decoration: none;
+                color: gray;
+                font-size: 20px;
+            
+            
+        }
+      
+
+@media only screen and (min-width: 992px) {
+    .middle{
+        display: block;
+        margin-left: 45%;
+        background-image: cover;
+        background-repeat: no-repeat;
+           
+        }
+        .image{
+            display: block;
+            margin-left: 45%;
+            margin-bottom: 50%;
+            background-image: cover;
+            background-repeat: no-repeat;
+          
+        }
+        .container{
+            display: block;
+            margin-top: -115%;
+            background-image: cover;
+            background-repeat: no-repeat;
+        }
+        .menu{
+          float: right;
+          margin-top: 5%;
+          margin-right: 8%;
+            display:inline-block;
+            width:100px;
+          
+            
+        
+            
+        }
+        a{
+                text-decoration: none;
+                color: gray;
+                font-size: 20px;
+            
+            
+        }
+}
+@media only screen and (min-width: 768px){
+    .middle{
+        display: block;
+        margin-left: 45%;
+        background-image: cover;
+        background-repeat: no-repeat;
+           
+        }
+        .image{
+            display: block;
+            margin-left: 45%;
+            margin-bottom: 50%;
+            background-image: cover;
+            background-repeat: no-repeat;
+          
+        }
+        .container{
+            display: block;
+            margin-top: -115%;
+            background-image: cover;
+            background-repeat: no-repeat;
+        }
+        .menu{
+          float: right;
+          margin-top: 5%;
+          margin-right: 8%;
+            display:inline-block;
+            width:100px;
+          
+            
+        
+            
+        }
+        a{
+                text-decoration: none;
+                color: gray;
+                font-size: 20px;
+            
+            
+        }
+}
+
+@media only screen and (min-width: 600px){
+    .middle{
+        display: block;
+        margin-left: 45%;
+        background-image: cover;
+        background-repeat: no-repeat;
+           
+        }
+        .image{
+            display: block;
+            margin-left: 45%;
+            margin-bottom: 50%;
+            background-image: cover;
+            background-repeat: no-repeat;
+          
+        }
+        .container{
+            display: block;
+            margin-top: -115%;
+            background-image: cover;
+            background-repeat: no-repeat;
+        }
+        .menu{
+          float: right;
+          margin-top: 5%;
+          margin-right: 8%;
+            display:inline-block;
+            width:100px;
+          
+            
+        
+            
+        }
+        a{
+                text-decoration: none;
+                color: gray;
+                font-size: 20px;
+            
+            
+        }
+}
+
+@media only screen and (max-width: 600px){
+    .middle{
+        display: block;
+        margin-left: 45%;
+        background-image: cover;
+        background-repeat: no-repeat;
+           
+        }
+        .image{
+            display: block;
+            margin-left: 45%;
+            margin-bottom: 50%;
+            background-image: cover;
+            background-repeat: no-repeat;
+          
+        }
+        .container{
+            display: block;
+            margin-top: -115%;
+            background-image: cover;
+            background-repeat: no-repeat;
+        }
+        .menu{
+          float: right;
+          margin-top: 5%;
+          margin-right: 8%;
+            display:inline-block;
+            width:100px;
+          
+            
+        
+            
+        }
+        a{
+                text-decoration: none;
+                color: gray;
+                font-size: 20px;
+            
+            
+        }
+
+}
