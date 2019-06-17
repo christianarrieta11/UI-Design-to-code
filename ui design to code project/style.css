@@ -4,7 +4,7 @@ display: block;
 margin-left: 45%;
 background-image: cover;
 background-repeat: no-repeat;
-   
+
 }
 .image{
     display: block;
@@ -12,7 +12,7 @@ background-repeat: no-repeat;
     margin-bottom: 50%;
     background-image: cover;
     background-repeat: no-repeat;
-  
+
 }
 .container{
     display: block;
@@ -26,18 +26,23 @@ background-repeat: no-repeat;
   margin-right: 8%;
     display:inline-block;
     width:100px;
-  
-    
 
-    
+
+
+
 }
 a{
         text-decoration: none;
         color: gray;
         font-size: 20px;
-    
-    
+
 }
 
+@media screen and (min-width: 400px) {
+div.container {
 
-
+  margin-left: 15%;
+  display: block;
+  margin-top: -90%;
+}
+}
